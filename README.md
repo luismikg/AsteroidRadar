@@ -1,4 +1,4 @@
-# ShoesIn
+# Asteroid Radar
 
 This App has been developed as part of the Udacity Android Kotlin Developer Nanodegree Course for the Exercise Project "Asteroid Radar". In this project I applyed my skills in applying diferents frameworks fetching data from the internet, saving data to a database, and display the data in a clear, compelling UI by building a Asteroid Radar app. 
 
@@ -15,7 +15,17 @@ The app is building with two screens:
 
 ---
 
-## App 
+## Getting Started
+
+The first step is to get an API Key from NASA: [https://api.nasa.gov/](https://api.nasa.gov/).
+
+Set your API key into: 
+* com.udacity.asteroidradar.Constants
+
+---
+
+## App
+
 Designed for Phones and NOT for Tablets
 
 ---
