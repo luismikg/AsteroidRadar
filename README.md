@@ -64,3 +64,11 @@ Designed for Phones and NOT for Tablets
 
 * App Icon is from: [Free design file](https://freedesignfile.com/).
 * Other images: [freepng](https://www.freepng.es/) and [pngwing](www.pngwing.com).
+
+---
+
+## Project Review (Udacity)
+
+<img width="900" alt="Captura de Pantalla 2021-08-28 a la(s) 14 51 12" src="https://user-images.githubusercontent.com/37081739/131229468-9c8d7ea4-17ec-45f2-8395-1e876cc2fd58.png">
+
+---
