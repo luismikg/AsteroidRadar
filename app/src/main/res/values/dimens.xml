@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="general_top_margin">16dp</dimen>
+    <dimen name="general_bottom_margin">16dp</dimen>
+    <dimen name="general_start_margin">16dp</dimen>
+    <dimen name="general_end_margin">16dp</dimen>
+
+    <dimen name="dp_0">0dp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="dp_50">50dp</dimen>
+    <dimen name="dp_100">100dp</dimen>
+</resources>
